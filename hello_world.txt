@@ -1,2 +1,2 @@
 Test text to add
-adding more test to create a commit without -m to test git config --global core.editor "code --wait"
+adding more test to create a commit without -m to text git config --global core.editor "code --wait"
