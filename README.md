@@ -1,3 +1,2 @@
 # git_test
-git is hard
-Hello Odin
+This repo is to test various things
