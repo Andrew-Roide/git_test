@@ -5,3 +5,14 @@
     text-align: center;
     font-weight: bold;
 }
+
+.normal-class{
+    background-color: rgb(223, 160, 160);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#number-two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+    font-family: "Verdana", "DejaVu Sands", sans-serif;
+}
